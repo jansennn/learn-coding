@@ -28,9 +28,7 @@ class InsertNodeAtFront{
 
             node.next = newNode;
         }
-
         return list;
-
     }
 
     public static void printList(InsertNodeAtFront list){

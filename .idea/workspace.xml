@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d43aaf8-58cc-42b5-abec-52757f550d76" name="Default Changelist" comment="" />
+    <list default="true" id="2d43aaf8-58cc-42b5-abec-52757f550d76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayListt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrayy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChangeValueVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DateFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FibonacciNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindFirstRepeatedWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunWithAnagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview-Preparation-Kit/Array/LeftRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview-Preparation-Kit/Array/LeftRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/InsertNodeAtFront.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/InsertNodeAtFront.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/InsertNodeAtSpesificPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/InsertNodeAtSpesificPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Listt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RomanToInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SayHello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwitchStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TargetPlus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1wbYyd3INIA7sBZEXZwxCLXWYxX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lowongan Kerja/Sirclo/Challenge" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -56,5 +84,18 @@
       <updated>1628729010145</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -39,7 +39,4 @@ class LeftRotation{
 
     }
 
-
-    @Test
-
 }
