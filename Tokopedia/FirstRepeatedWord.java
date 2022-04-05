@@ -3,7 +3,8 @@ import java.util.*;
 class FirstRepeatedWord{
 
     public static String firstRepeatedWord(String sentence){
-        String str[] = sentence.split("\\s|-|;|:|,");
+//        String str[] = sentence.split("\\s|-|;|:|,");
+        String str[] = sentence.split("[\\s-;:,]");
         HashSet<String> h = new HashSet<String>();
 
         for(int i=0;i<str.length-1;i++){

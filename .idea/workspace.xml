@@ -2,29 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d43aaf8-58cc-42b5-abec-52757f550d76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayListt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrayy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChangeValueVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DateFormat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FibonacciNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindFirstRepeatedWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FunWithAnagram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iff.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview-Preparation-Kit/Array/LeftRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview-Preparation-Kit/Array/LeftRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/InsertNodeAtFront.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/InsertNodeAtFront.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/InsertNodeAtSpesificPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/InsertNodeAtSpesificPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Listt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RomanToInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SayHello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwitchStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TargetPlus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tokopedia/FirstRepeatedWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tokopedia/FirstRepeatedWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tokopedia/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tokopedia/Palindrome.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +19,9 @@
   <component name="ProjectId" id="1wbYyd3INIA7sBZEXZwxCLXWYxX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lowongan Kerja/Sirclo/Challenge" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
